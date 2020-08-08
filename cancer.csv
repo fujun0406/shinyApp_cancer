@@ -1,0 +1,205 @@
+Year,TumourSite,Deaths,Cases
+2001,"Lip, Oral Cavity And Pharynx",1572,4225
+2001,Digestive Organs,34262,52542
+2001,Respiratory And Intrathoracic Organs,27877,33648
+2001,Bone And Articular Cartilage,248,428
+2001,Malignant Melanoma Of Skin,1380,6424
+2001,Mesothelial And Soft Tissue,2202,3328
+2001,Malignant Neoplasm Of Breast,10915,35624
+2001,Urinary Tract,6813,14287
+2001,Malignant Neoplasm Of Eye,62,404
+2001,Brain And Other Parts Of Central Nervous System,2821,3714
+2001,Thyroid And Other Endocrine Glands,375,1482
+2001,"Lymphoid, Haematopoietic And Related Tissue",9773,18973
+2002,"Lip, Oral Cavity And Pharynx",1591,4033
+2002,Digestive Organs,34928,52548
+2002,Respiratory And Intrathoracic Organs,28022,32658
+2002,Bone And Articular Cartilage,229,396
+2002,Malignant Melanoma Of Skin,1379,6668
+2002,Mesothelial And Soft Tissue,2257,3309
+2002,Malignant Neoplasm Of Breast,10874,35572
+2002,Urinary Tract,6904,14053
+2002,Malignant Neoplasm Of Eye,66,406
+2002,Brain And Other Parts Of Central Nervous System,2753,3724
+2002,Thyroid And Other Endocrine Glands,384,1500
+2002,"Lymphoid, Haematopoietic And Related Tissue",10111,18742
+2003,"Lip, Oral Cavity And Pharynx",1472,4434
+2003,Digestive Organs,34567,52648
+2003,Respiratory And Intrathoracic Organs,27884,32761
+2003,Bone And Articular Cartilage,237,409
+2003,Malignant Melanoma Of Skin,1464,6936
+2003,Mesothelial And Soft Tissue,2282,3423
+2003,Malignant Neoplasm Of Breast,10565,37711
+2003,Urinary Tract,6958,14272
+2003,Malignant Neoplasm Of Eye,64,413
+2003,Brain And Other Parts Of Central Nervous System,2812,3668
+2003,Thyroid And Other Endocrine Glands,432,1588
+2003,"Lymphoid, Haematopoietic And Related Tissue",10156,19275
+2004,"Lip, Oral Cavity And Pharynx",1612,4458
+2004,Digestive Organs,34599,53996
+2004,Respiratory And Intrathoracic Organs,27299,33431
+2004,Bone And Articular Cartilage,278,396
+2004,Malignant Melanoma Of Skin,1480,7664
+2004,Mesothelial And Soft Tissue,2381,3628
+2004,Malignant Neoplasm Of Breast,10341,37931
+2004,Urinary Tract,6998,14287
+2004,Malignant Neoplasm Of Eye,63,419
+2004,Brain And Other Parts Of Central Nervous System,2849,3700
+2004,Thyroid And Other Endocrine Glands,421,1672
+2004,"Lymphoid, Haematopoietic And Related Tissue",9765,19857
+2005,"Lip, Oral Cavity And Pharynx",1599,4633
+2005,Digestive Organs,35077,54998
+2005,Respiratory And Intrathoracic Organs,27647,33744
+2005,Bone And Articular Cartilage,247,408
+2005,Malignant Melanoma Of Skin,1529,8202
+2005,Mesothelial And Soft Tissue,2495,3728
+2005,Malignant Neoplasm Of Breast,10375,38905
+2005,Urinary Tract,6855,14907
+2005,Malignant Neoplasm Of Eye,72,392
+2005,Brain And Other Parts Of Central Nervous System,2806,3859
+2005,Thyroid And Other Endocrine Glands,427,1783
+2005,"Lymphoid, Haematopoietic And Related Tissue",9740,20268
+2006,"Lip, Oral Cavity And Pharynx",1573,5094
+2006,Digestive Organs,34951,56473
+2006,Respiratory And Intrathoracic Organs,28246,35137
+2006,Bone And Articular Cartilage,269,428
+2006,Malignant Melanoma Of Skin,1536,8904
+2006,Mesothelial And Soft Tissue,2553,3966
+2006,Malignant Neoplasm Of Breast,10302,38944
+2006,Urinary Tract,7135,15357
+2006,Malignant Neoplasm Of Eye,81,406
+2006,Brain And Other Parts Of Central Nervous System,2956,3930
+2006,Thyroid And Other Endocrine Glands,428,1966
+2006,"Lymphoid, Haematopoietic And Related Tissue",9892,21008
+2007,"Lip, Oral Cavity And Pharynx",1667,5095
+2007,Digestive Organs,35357,57704
+2007,Respiratory And Intrathoracic Organs,28503,35352
+2007,Bone And Articular Cartilage,251,498
+2007,Malignant Melanoma Of Skin,1710,9055
+2007,Mesothelial And Soft Tissue,2652,4037
+2007,Malignant Neoplasm Of Breast,10062,38934
+2007,Urinary Tract,7164,15924
+2007,Malignant Neoplasm Of Eye,83,412
+2007,Brain And Other Parts Of Central Nervous System,3006,4083
+2007,Thyroid And Other Endocrine Glands,452,2070
+2007,"Lymphoid, Haematopoietic And Related Tissue",10059,21154
+2008,"Lip, Oral Cavity And Pharynx",1682,5642
+2008,Digestive Organs,36110,60084
+2008,Respiratory And Intrathoracic Organs,29088,36773
+2008,Bone And Articular Cartilage,253,523
+2008,Malignant Melanoma Of Skin,1725,10060
+2008,Mesothelial And Soft Tissue,2739,4337
+2008,Malignant Neoplasm Of Breast,10122,40990
+2008,Urinary Tract,7308,16671
+2008,Malignant Neoplasm Of Eye,67,435
+2008,Brain And Other Parts Of Central Nervous System,3031,4263
+2008,Thyroid And Other Endocrine Glands,462,2179
+2008,"Lymphoid, Haematopoietic And Related Tissue",9972,23127
+2009,"Lip, Oral Cavity And Pharynx",1790,5886
+2009,Digestive Organs,36155,60966
+2009,Respiratory And Intrathoracic Organs,28883,36618
+2009,Bone And Articular Cartilage,259,508
+2009,Malignant Melanoma Of Skin,1727,10187
+2009,Mesothelial And Soft Tissue,2920,4474
+2009,Malignant Neoplasm Of Breast,9809,40920
+2009,Urinary Tract,7326,16837
+2009,Malignant Neoplasm Of Eye,71,427
+2009,Brain And Other Parts Of Central Nervous System,3171,4382
+2009,Thyroid And Other Endocrine Glands,455,2368
+2009,"Lymphoid, Haematopoietic And Related Tissue",9982,24290
+2010,"Lip, Oral Cavity And Pharynx",1831,6156
+2010,Digestive Organs,36654,62032
+2010,Respiratory And Intrathoracic Organs,28897,37398
+2010,Bone And Articular Cartilage,277,504
+2010,Malignant Melanoma Of Skin,1825,10878
+2010,Mesothelial And Soft Tissue,2954,4500
+2010,Malignant Neoplasm Of Breast,9689,42020
+2010,Urinary Tract,7511,17074
+2010,Malignant Neoplasm Of Eye,82,503
+2010,Brain And Other Parts Of Central Nervous System,3231,4284
+2010,Thyroid And Other Endocrine Glands,459,2533
+2010,"Lymphoid, Haematopoietic And Related Tissue",10084,24084
+2011,"Lip, Oral Cavity And Pharynx",1884,6314
+2011,Digestive Organs,36920,63054
+2011,Respiratory And Intrathoracic Organs,29058,38420
+2011,Bone And Articular Cartilage,210,489
+2011,Malignant Melanoma Of Skin,1871,11201
+2011,Mesothelial And Soft Tissue,3027,4592
+2011,Malignant Neoplasm Of Breast,9766,42197
+2011,Urinary Tract,7685,17791
+2011,Malignant Neoplasm Of Eye,61,537
+2011,Brain And Other Parts Of Central Nervous System,3262,4386
+2011,Thyroid And Other Endocrine Glands,422,2650
+2011,"Lymphoid, Haematopoietic And Related Tissue",10407,24888
+2012,"Lip, Oral Cavity And Pharynx",1948,6781
+2012,Digestive Organs,38190,64875
+2012,Respiratory And Intrathoracic Organs,29227,39994
+2012,Bone And Articular Cartilage,187,506
+2012,Malignant Melanoma Of Skin,1781,11529
+2012,Mesothelial And Soft Tissue,3233,4924
+2012,Malignant Neoplasm Of Breast,9756,43345
+2012,Urinary Tract,7863,18330
+2012,Malignant Neoplasm Of Eye,98,551
+2012,Brain And Other Parts Of Central Nervous System,3466,4413
+2012,Thyroid And Other Endocrine Glands,436,2921
+2012,"Lymphoid, Haematopoietic And Related Tissue",10612,25927
+2013,"Lip, Oral Cavity And Pharynx",2073,7004
+2013,Digestive Organs,37919,64869
+2013,Respiratory And Intrathoracic Organs,29418,40172
+2013,Bone And Articular Cartilage,226,510
+2013,Malignant Melanoma Of Skin,1981,12448
+2013,Mesothelial And Soft Tissue,3245,4856
+2013,Malignant Neoplasm Of Breast,9626,45149
+2013,Urinary Tract,7671,19423
+2013,Malignant Neoplasm Of Eye,80,632
+2013,Brain And Other Parts Of Central Nervous System,3392,4699
+2013,Thyroid And Other Endocrine Glands,459,3157
+2013,"Lymphoid, Haematopoietic And Related Tissue",10534,27768
+2014,"Lip, Oral Cavity And Pharynx",2210,7089
+2014,Digestive Organs,38602,64692
+2014,Respiratory And Intrathoracic Organs,29745,40639
+2014,Bone And Articular Cartilage,279,487
+2014,Malignant Melanoma Of Skin,2079,13099
+2014,Mesothelial And Soft Tissue,3415,4975
+2014,Malignant Neoplasm Of Breast,9554,46564
+2014,Urinary Tract,8085,19609
+2014,Malignant Neoplasm Of Eye,100,686
+2014,Brain And Other Parts Of Central Nervous System,3480,4512
+2014,Thyroid And Other Endocrine Glands,446,3238
+2014,"Lymphoid, Haematopoietic And Related Tissue",10760,27481
+2015,"Lip, Oral Cavity And Pharynx",2262,7442
+2015,Digestive Organs,39025,66498
+2015,Respiratory And Intrathoracic Organs,29497,41016
+2015,Bone And Articular Cartilage,289,463
+2015,Malignant Melanoma Of Skin,2075,13416
+2015,Mesothelial And Soft Tissue,3423,4915
+2015,Malignant Neoplasm Of Breast,9626,46238
+2015,Urinary Tract,8181,19482
+2015,Malignant Neoplasm Of Eye,94,665
+2015,Brain And Other Parts Of Central Nervous System,3487,4793
+2015,Thyroid And Other Endocrine Glands,481,3380
+2015,"Lymphoid, Haematopoietic And Related Tissue",10842,27766
+2016,"Lip, Oral Cavity And Pharynx",2415,7632
+2016,Digestive Organs,40092,66899
+2016,Respiratory And Intrathoracic Organs,29490,41744
+2016,Bone And Articular Cartilage,294,458
+2016,Malignant Melanoma Of Skin,1937,13793
+2016,Mesothelial And Soft Tissue,3447,4792
+2016,Malignant Neoplasm Of Breast,9685,46079
+2016,Urinary Tract,8193,19589
+2016,Malignant Neoplasm Of Eye,78,714
+2016,Brain And Other Parts Of Central Nervous System,3636,4814
+2016,Thyroid And Other Endocrine Glands,448,3399
+2016,"Lymphoid, Haematopoietic And Related Tissue",11044,27715
+2017,"Lip, Oral Cavity And Pharynx",2427,7587
+2017,Digestive Organs,40332,66184
+2017,Respiratory And Intrathoracic Organs,29082,41690
+2017,Bone And Articular Cartilage,297,483
+2017,Malignant Melanoma Of Skin,1984,13740
+2017,Mesothelial And Soft Tissue,3406,4806
+2017,Malignant Neoplasm Of Breast,9569,46109
+2017,Urinary Tract,8519,19445
+2017,Malignant Neoplasm Of Eye,119,701
+2017,Brain And Other Parts Of Central Nervous System,3637,4769
+2017,Thyroid And Other Endocrine Glands,467,3499
+2017,"Lymphoid, Haematopoietic And Related Tissue",11152,27902
