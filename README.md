@@ -1,4 +1,4 @@
-# Project - Cancer Data (Using RShiny)
+# Project - Cancer Data (Using R Shiny)
 
 ## Contents
 * [Background](#background)
